@@ -10,7 +10,7 @@ class App extends Component {
         <header className="App-header">
           <img src={favi} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            In rebase branch
           </p>
           <a
             className="App-link"
